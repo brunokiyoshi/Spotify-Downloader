@@ -1,0 +1,8 @@
+.cache
+.env
+downloader.log
+*.mp3
+*.m4a
+cookies.txt
+downloads/*
+*.pyc
